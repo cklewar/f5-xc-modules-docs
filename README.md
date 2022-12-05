@@ -63,6 +63,7 @@ module "my_test_modul" {
 | NFV | **[f5xc_nfv](https://github.com/cklewar/f5-xc-nfv)** | [![F5XC NFV module](https://github.com/cklewar/f5-xc-nfv/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-nfv/actions/workflows/module_test.yml) |
 | IPSec | **[f5xc_ipsec](https://github.com/cklewar/f5-xc-ipsec)** | [![F5XC IPSec module](https://github.com/cklewar/f5-xc-ipsec/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/f5-xc-ipsec/actions/workflows/module_test.yml) |
 | Virtual Network | **[f5xc_virtual_network](https://github.com/cklewar/f5-xc-virtual-network)** | [![F5XC Virtual Network module](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_test.yml) |
+| ================================== | ============================= | ============================= |
 | AWS VPC Single Node Single NIC | **[f5xc_aws_vpc_snode_snic](https://github.com/cklewar/f5-xc-aws-vpc-snode-snic)** |  |
 | AWS VPC Multi Node Single NIC | **[f5xc_aws_vpc_mnode_snic](https://github.com/cklewar/f5-xc-aws-vpc-multinode)** | [![F5XC AWS VPC Site module](https://github.com/cklewar/f5-xc-aws-vpc-multinode/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-aws-vpc-multinode/actions/workflows/module_test.yml) |
 | AWS TGW Single Node | **[f5xc_aws_tgw_snode](https://github.com/cklewar/f5-xc-aws-tgw-snode)** |  |
@@ -72,6 +73,7 @@ module "my_test_modul" {
 | GCP VPC Single Node Single NIC | **[f5xc_gcp_snode_snic](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic)** |  |
 | GCP VPC Multi Node Single NIC | **[f5xc_gcp_vpc](https://github.com/cklewar/f5-xc-gcp-vpc-multinode)** | [![F5XC GCP VPC Site module](https://github.com/cklewar/f5-xc-gcp-vpc-multinode/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-gcp-vpc-multinode/actions/workflows/module_test.yml) |
 | Virtual Site | **[f5xc_virtual_site](https://github.com/cklewar/f5-xc-virtual-site)** | [![F5XC Virtual Site module](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_test.yml/badge.svg?branch=0.11.16)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_test.yml) |
+| ================================== | ============================= | ============================= |
 | Site status Check | **[f5xc_site_status_check](https://github.com/cklewar/f5-xc-site-status-check)** | [![F5XC site status check module](https://github.com/cklewar/f5-xc-site-status-check/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-site-status-check/actions/workflows/module_test.yml) |
 | vk8s status Check | **[f5xc_vk8s_status_check](https://github.com/cklewar/f5-xc-vk8s-status-check)** | [![F5XC vk8s status check module](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml) |
 # AWS Modules
