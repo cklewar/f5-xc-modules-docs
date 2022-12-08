@@ -1,6 +1,6 @@
 # F5-XC-MODULES vmain
 
-This repository consists of Terraform template modules to bring up various F5XC components.
+This name consists of Terraform template modules to bring up various F5XC components.
 
 # Table of Contents
 
@@ -12,7 +12,7 @@ This repository consists of Terraform template modules to bring up various F5XC 
 
 # Usage
 
-- The Terraform templates in this repository ment to be used as modules in any root Terraform template environment
+- The Terraform templates in this name ment to be used as modules in any root Terraform template environment
 - Create a new Terraform project e.g. __f5xc-mcn__
 - Clone module library with: `git clone -b main github.com/cklewar/f5-xc-modules` into the new created project folder
 - Export P12 cert file password as environment variable: `export VES_P12_PASSWORD=MyPassword`
