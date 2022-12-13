@@ -73,7 +73,7 @@ module "my_test_modul" {
 | Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_test.yml) |
 | vk8s status Check | **[f5-xc-vk8s-status-check](https://github.com/cklewar/f5-xc-vk8s-status-check)** | [![vk8s status Check](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml) |
 | Dummy A | **[f5-xc-dummy-a](https://github.com/cklewar/f5-xc-dummy-a)** | [![Dummy A](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_test.yml) |
-| Dummy B | **[f5-xc-gcp-vpc-snode-snic](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic)** | [![Dummy B](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic/actions/workflows/module_test.yml) |
+| Dummy B | **[f5-xc-dummy-b](https://github.com/cklewar/f5-xc-dummy-b)** | [![Dummy B](https://github.com/cklewar/f5-xc-dummy-b/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-dummy-b/actions/workflows/module_test.yml) |
 
 # AWS Modules
 
