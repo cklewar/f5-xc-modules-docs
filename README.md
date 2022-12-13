@@ -42,6 +42,7 @@ module "my_test_modul" {
 | Use Case                | Documentation               | Status                                                                                                                                                                                                                                                                          |
 |-------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | GCP Egress NAT Ingress LB | **[f5-xc-uc-gcp-smg-nat-lb](https://github.com/cklewar/f5-xc-uc-gcp-smg-nat-lb)** | [![GCP Egress NAT Ingress LB](https://github.com/cklewar/f5-xc-uc-gcp-smg-nat-lb/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-uc-gcp-smg-nat-lb/actions/workflows/module_test.yml) |
+| Regression Env | **[f5-xc-regression-environment](https://github.com/cklewar/f5-xc-regression-environment)** | [![Regression Env](https://github.com/cklewar/f5-xc-regression-environment/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-regression-environment/actions/workflows/module_test.yml) |
 
 # F5XC Modules
 
@@ -73,7 +74,6 @@ module "my_test_modul" {
 | vk8s status Check | **[f5-xc-vk8s-status-check](https://github.com/cklewar/f5-xc-vk8s-status-check)** | [![vk8s status Check](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_test.yml) |
 | Dummy A | **[f5-xc-dummy-a](https://github.com/cklewar/f5-xc-dummy-a)** | [![Dummy A](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_test.yml) |
 | Dummy B | **[f5-xc-gcp-vpc-snode-snic](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic)** | [![Dummy B](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-gcp-vpc-snode-snic/actions/workflows/module_test.yml) |
-| Dummy B | **[f5-xc-regression-environment](https://github.com/cklewar/f5-xc-regression-environment)** | [![Dummy B](https://github.com/cklewar/f5-xc-regression-environment/actions/workflows/module_test.yml/badge.svg?branch=main)](https://github.com/cklewar/f5-xc-regression-environment/actions/workflows/module_test.yml) |
 
 # AWS Modules
 
