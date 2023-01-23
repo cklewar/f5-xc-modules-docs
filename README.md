@@ -72,7 +72,6 @@ module "my_test_modul" {
 | Virtual Network | **[f5-xc-virtual-network](https://github.com/cklewar/f5-xc-virtual-network)** | [![Virtual Network](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_18.yml/badge.svg?branch=0.11.18)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_18.yml) |
 | Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_18.yml/badge.svg?branch=0.11.18)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_18.yml) |
 | vk8s status Check | **[f5-xc-vk8s-status-check](https://github.com/cklewar/f5-xc-vk8s-status-check)** | [![vk8s status Check](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_v0_11_18.yml/badge.svg?branch=0.11.18)](https://github.com/cklewar/f5-xc-vk8s-status-check/actions/workflows/module_v0_11_18.yml) |
-| Dummy A | **[f5-xc-dummy-a](https://github.com/cklewar/f5-xc-dummy-a)** | [![Dummy A](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_v0_11_18.yml/badge.svg?branch=0.11.18)](https://github.com/cklewar/f5-xc-dummy-a/actions/workflows/module_v0_11_18.yml) |
 | F5XC GCP Cloud CE | **[f5-xc-gcp-ce](https://github.com/cklewar/f5-xc-gcp-ce)** | [![F5XC GCP Cloud CE](https://github.com/cklewar/f5-xc-gcp-ce/actions/workflows/module_v0_11_18.yml/badge.svg?branch=0.11.18)](https://github.com/cklewar/f5-xc-gcp-ce/actions/workflows/module_v0_11_18.yml) |
 
 # AWS Modules
