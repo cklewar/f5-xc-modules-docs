@@ -70,7 +70,7 @@ module "my_test_modul" {
 | Site Mesh Group | **[f5-xc-site-mesh-group](https://github.com/cklewar/f5-xc-site-mesh-group)** | [![Site Mesh Group](https://github.com/cklewar/f5-xc-site-mesh-group/actions/workflows/module_v0_11_20.yml/badge.svg?branch=0.11.20)](https://github.com/cklewar/f5-xc-site-mesh-group/actions/workflows/module_v0_11_20.yml) |
 | Virtual k8s | **[f5-xc-virtual-k8s](https://github.com/cklewar/f5-xc-virtual-k8s)** | [![Virtual k8s](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_20.yml/badge.svg?branch=0.11.20)](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_20.yml) |
 | Virtual Network | **[f5-xc-virtual-network](https://github.com/cklewar/f5-xc-virtual-network)** | [![Virtual Network](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_20.yml/badge.svg?branch=0.11.20)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_20.yml) |
-| Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_20_yml/badge.svg?branch=0.11.20)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_20_yml) |
+| Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_20.yml/badge.svg?branch=0.11.20)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_20.yml) |
 
 # AWS Modules
 
