@@ -1,4 +1,4 @@
-# F5-XC-MODULES v0.11.20
+# F5-XC-MODULES v0.11.21
 
 This release consists of Terraform template modules to bring up various F5XC components.
 
