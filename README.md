@@ -71,13 +71,13 @@ module "my_test_modul" {
 | Virtual k8s | **[f5-xc-virtual-k8s](https://github.com/cklewar/f5-xc-virtual-k8s)** | [![Virtual k8s](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_21.yml) |
 | Virtual Network | **[f5-xc-virtual-network](https://github.com/cklewar/f5-xc-virtual-network)** | [![Virtual Network](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml) |
 | Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml) |
-| AWS EC2 |  |  |
 | Azure Cloud CE |  |  |
 
 # AWS Modules
 
 | Module | Documentation                                           | Status                                                                                                                                                                                          |
 |--------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AWS EC2 |  |  |
 | EC2    | **[aws_ec2](https://github.com/cklewar/aws-ec2)**       | [![F5 XC AWS EC2 module](https://github.com/cklewar/aws-ec2/actions/workflows/module_test.yml/badge.svg?release=0.11.16)](https://github.com/cklewar/aws-ec2/actions/workflows/module_test.yml)  |
 | VPC    | **[aws_vpc](https://github.com/cklewar/aws-vpc)**       | [![AWS VPC module](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml)                       |
 | Subnet | **[aws_subnet](https://github.com/cklewar/aws-subnet)** | [![AWS Subnet module](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml)            |
