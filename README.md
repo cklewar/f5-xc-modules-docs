@@ -77,7 +77,7 @@ module "my_test_modul" {
 
 | Module | Documentation                                           | Status                                                                                                                                                                                          |
 |--------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AWS EC2 |  |  |
+| EC2 |  |  |
 | EC2    | **[aws_ec2](https://github.com/cklewar/aws-ec2)**       | [![F5 XC AWS EC2 module](https://github.com/cklewar/aws-ec2/actions/workflows/module_test.yml/badge.svg?release=0.11.16)](https://github.com/cklewar/aws-ec2/actions/workflows/module_test.yml)  |
 | VPC    | **[aws_vpc](https://github.com/cklewar/aws-vpc)**       | [![AWS VPC module](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml)                       |
 | Subnet | **[aws_subnet](https://github.com/cklewar/aws-subnet)** | [![AWS Subnet module](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml)            |
