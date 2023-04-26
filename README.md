@@ -72,7 +72,7 @@ module "my_test_modul" {
 | Virtual k8s | **[f5-xc-virtual-k8s](https://github.com/cklewar/f5-xc-virtual-k8s)** | [![Virtual k8s](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-k8s/actions/workflows/module_v0_11_21.yml) |
 | Virtual Network | **[f5-xc-virtual-network](https://github.com/cklewar/f5-xc-virtual-network)** | [![Virtual Network](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml) |
 | Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml) |
-| VMWare vSphere Cloud CE | **[f5-xc-vmware-ce](https://github.com/cklewar/f5-xc-vmware-ce)** | [![VMWare vSphere Cloud CE](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml) |
+| VMWare Cloud CE | **[f5-xc-vmware-ce](https://github.com/cklewar/f5-xc-vmware-ce)** | [![VMWare Cloud CE](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml) |
 
 # AWS Modules
 
