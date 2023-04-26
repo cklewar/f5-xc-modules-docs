@@ -73,6 +73,8 @@ module "my_test_modul" {
 | Virtual Network | **[f5-xc-virtual-network](https://github.com/cklewar/f5-xc-virtual-network)** | [![Virtual Network](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-network/actions/workflows/module_v0_11_21.yml) |
 | Virtual Site | **[f5-xc-virtual-site](https://github.com/cklewar/f5-xc-virtual-site)** | [![Virtual Site](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-virtual-site/actions/workflows/module_v0_11_21.yml) |
 | VMWare Cloud CE | **[f5-xc-vmware-ce](https://github.com/cklewar/f5-xc-vmware-ce)** | [![VMWare Cloud CE](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-vmware-ce/actions/workflows/module_v0_11_21.yml) |
+| Secure Mesh Site | **[f5-xc-secure-mesh-site](https://github.com/cklewar/f5-xc-secure-mesh-site)** | [![Secure Mesh Site](https://github.com/cklewar/f5-xc-secure-mesh-site/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-secure-mesh-site/actions/workflows/module_v0_11_21.yml) |
+| K8s Cloud CE | **[f5-xc-k8s-ce](https://github.com/cklewar/f5-xc-k8s-ce)** | [![K8s Cloud CE](https://github.com/cklewar/f5-xc-k8s-ce/actions/workflows/module_v0_11_21.yml/badge.svg?branch=0.11.21)](https://github.com/cklewar/f5-xc-k8s-ce/actions/workflows/module_v0_11_21.yml) |
 
 # AWS Modules
 
