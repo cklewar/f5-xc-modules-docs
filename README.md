@@ -78,7 +78,7 @@ module "my_test_modul" {
 | K8s Cloud CE | **[f5-xc-k8s-ce](https://github.com/cklewar/f5-xc-k8s-ce)** | [![K8s Cloud CE](https://github.com/cklewar/f5-xc-k8s-ce/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-k8s-ce/actions/workflows/module_v0_11_23.yml) |
 | Cloud CE SG | **[f5-xc-cloud-ce-sg](https://github.com/cklewar/f5-xc-cloud-ce-sg)** | [![Cloud CE SG](https://github.com/cklewar/f5-xc-cloud-ce-sg/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-cloud-ce-sg/actions/workflows/module_v0_11_23.yml) |
 | Enhanced Firewall Policy | **[f5-xc-enhanced-firewall-policy](https://github.com/cklewar/f5-xc-enhanced-firewall-policy)** | [![Enhanced Firewall Policy](https://github.com/cklewar/f5-xc-enhanced-firewall-policy/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-enhanced-firewall-policy/actions/workflows/module_v0_11_23.yml) |
-| Service Policy |  |  |
+| Service Policy | **[f5-xc-service-policy](https://github.com/cklewar/f5-xc-service-policy)** | [![Service Policy](https://github.com/cklewar/f5-xc-service-policy/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-service-policy/actions/workflows/module_v0_11_23.yml) |
 
 # AWS Modules
 
