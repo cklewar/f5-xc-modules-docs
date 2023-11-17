@@ -80,13 +80,12 @@ module "my_test_modul" {
 | Cloud CE SG | **[f5-xc-cloud-ce-sg](https://github.com/cklewar/f5-xc-cloud-ce-sg)** | [![Cloud CE SG](https://github.com/cklewar/f5-xc-cloud-ce-sg/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-cloud-ce-sg/actions/workflows/module_v0_11_23.yml) |
 | Enhanced Firewall Policy | **[f5-xc-enhanced-firewall-policy](https://github.com/cklewar/f5-xc-enhanced-firewall-policy)** | [![Enhanced Firewall Policy](https://github.com/cklewar/f5-xc-enhanced-firewall-policy/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-enhanced-firewall-policy/actions/workflows/module_v0_11_23.yml) |
 | Service Policy | **[f5-xc-service-policy](https://github.com/cklewar/f5-xc-service-policy)** | [![Service Policy](https://github.com/cklewar/f5-xc-service-policy/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/f5-xc-service-policy/actions/workflows/module_v0_11_23.yml) |
-| AWS VPC | **[aws-vpc](https://github.com/cklewar/aws-vpc)** | [![AWS VPC](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml) |
 
 # AWS Modules
 
 | Module | Documentation                                           | Status                                                                                                                                                                                          |
 |--------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| VPC    | **[aws_vpc](https://github.com/cklewar/aws-vpc)**       | [![AWS VPC module](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-vpc/actions/workflows/module_test.yml)                       |
+| AWS VPC | **[aws-vpc](https://github.com/cklewar/aws-vpc)** | [![AWS VPC](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml) |
 | Subnet | **[aws_subnet](https://github.com/cklewar/aws-subnet)** | [![AWS Subnet module](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml)            |
 | EKS    | **[aws_eks](https://github.com/cklewar/aws-eks)**       | [![AWS EKS module](https://github.com/cklewar/aws-eks/actions/workflows/module_test.yml/badge.svg?release=main)](https://github.com/cklewar/aws-eks/actions/workflows/module_test.yml)           |
 
