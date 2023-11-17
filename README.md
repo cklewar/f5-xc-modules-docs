@@ -87,6 +87,7 @@ module "my_test_modul" {
 | AWS EC2 | **[aws-ec2](https://github.com/cklewar/aws-ec2)** | [![AWS EC2](https://github.com/cklewar/aws-ec2/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/aws-ec2/actions/workflows/module_v0_11_23.yml) |
 | AWS VPC | **[aws-vpc](https://github.com/cklewar/aws-vpc)** | [![AWS VPC](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/aws-vpc/actions/workflows/module_v0_11_23.yml) |
 | AWS Subnet | **[aws-subnet](https://github.com/cklewar/aws-subnet)** | [![AWS Subnet](https://github.com/cklewar/aws-subnet/actions/workflows/module_v0_11_23.yml/badge.svg?branch=0.11.23)](https://github.com/cklewar/aws-subnet/actions/workflows/module_v0_11_23.yml) |
+| Subnet | **[aws_subnet](https://github.com/cklewar/aws-subnet)** | [![AWS Subnet module](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml/badge.svg)](https://github.com/cklewar/aws-subnets/actions/workflows/module_test.yml)            |
 | EKS    | **[aws_eks](https://github.com/cklewar/aws-eks)**       | [![AWS EKS module](https://github.com/cklewar/aws-eks/actions/workflows/module_test.yml/badge.svg?release=main)](https://github.com/cklewar/aws-eks/actions/workflows/module_test.yml)           |
 
 # GCP Modules
