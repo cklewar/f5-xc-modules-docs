@@ -10,6 +10,9 @@ This release consists of Terraform template modules to bring up various F5XC com
 - [GCP Modules](#gcp-modules)
 - [Azure Modules](#azure-modules)
 
+# Support
+For support, please open a GitHub issue. Note, the code in this repository is community supported and is not supported by F5 Networks.
+
 # Usage
 
 - The Terraform templates in this release ment to be used as modules in any root Terraform template environment
